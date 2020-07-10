@@ -53,7 +53,7 @@ const Comment: React.FC<Props> = ({ id }) => {
         <Details>
           <Detail>
             <Icon className="fas fa-user" />
-            <Text>{comment.by}</Text>
+            <Text>{comment.by || "Anonymous"}</Text>
           </Detail>
           <Detail>
             <Icon className="fas fa-clock" />
