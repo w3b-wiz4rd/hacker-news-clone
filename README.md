@@ -3,7 +3,7 @@
 # Hacker News Clone
 
 Hacker news clone 📰🖥️
-http://jesus-hernandezmoreno.github.io/hacker-news-clone
+https://jesus-hernandezmoreno.github.io/hacker-news-clone
 
 Desktop:
 
